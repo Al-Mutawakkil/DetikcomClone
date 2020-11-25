@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/botnav1"
+        android:id="@+id/itemHome"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:title="@string/botnav2"
+        android:id="@+id/itemCategory"
+        android:icon="@drawable/ic_kategori"/>
+
+    <item
+        android:title="@string/botnav3"
+        android:id="@+id/itemExplore"
+        android:icon="@drawable/ic_explore"/>
+
+    <item
+        android:title="@string/botnav4"
+        android:id="@+id/itemVideo"
+        android:icon="@drawable/ic_play_circle"/>
+
+
+
+</menu>
